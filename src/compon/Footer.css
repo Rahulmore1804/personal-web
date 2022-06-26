@@ -1,0 +1,31 @@
+.all-logo ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+   
+}
+.all-logo li {
+    margin: 10px;
+}
+.all-logo li a{
+    color: aliceblue;
+}
+
+
+
+.A1{
+    justify-content: center;
+    display: flex;
+    flex-flow:column ;
+    background: rgb(26, 24, 24);
+}
+
+.a4{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    color: rgb(255, 255, 255);
+    padding-top: 5px ;
+    padding-left: 32px;
+}

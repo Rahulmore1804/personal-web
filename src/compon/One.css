@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Chakra+Petch:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Chakra+Petch:wght@300&family=Lobster&family=The+Nautigal&display=swap');
+
+.kk1 {
+    width: 99vw;
+    /* height: 30 vh; */
+    margin: 0;
+    padding: 0;
+    max-width:100%; 
+    display: block;
+    
+}
+
+.kk {
+    position: relative;
+  text-align: center;
+  color: white;
+  margin: 0;
+  border: 0;
+
+
+}
+.kk2 {
+    position: absolute;
+  bottom: 400px;;
+  left: 25px;
+
+}
+.old{
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Chakra Petch', sans-serif;
+color: black;
+font-size: 45px;
+margin-left: 70px;
+}
+.new{
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Chakra Petch', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'The Nautigal', cursive;
+color: darkgreen;
+font-size: 100px;
+margin-left: 25px;
+
+}
+.old:hover{
+  color: darkolivegreen;
+  font-size: 55px;
+  transition: 600ms;
+}

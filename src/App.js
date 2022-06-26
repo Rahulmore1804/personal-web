@@ -1,25 +1,41 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Navbar from './compon/Navbar';
+import One from './compon/One';
+import Two from './compon/Two';
+import Three from './compon/Three';
+import Four from './compon/Four';
+
+import Footer from './compon/Footer';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+    
+      <Navbar/>
+      <One/>
+      <Two/>
+      <Three/>
+      <Four/>
+      
+      <Footer/>
     </div>
   );
 }
 
 export default App;
+
+
+// 1.  Hi iam rahul web developer 
+
+// 2.  skills frontend backend 
+
+// 3.  work ---> card 
+
+// 4.  services web develope 
+
+// 5   send me msg 
+
+// 6. Contact

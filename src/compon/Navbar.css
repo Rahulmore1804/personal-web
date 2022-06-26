@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Cormorant+Garamond:wght@300&display=swap');
+
+.AP {
+    color: rgb(185, 185, 209);
+    font-size: 20px;
+    float: right;
+
+    
+}
+.OP {
+    background: rgb(0, 0, 0);
+    height: 8vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.OP ul{
+    padding-right: 50px;
+}
+
+
+.OP a{
+    width: 10px;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 25px;
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+
+.OP a:hover {
+    font-size: 25px;
+    color: rgb(238, 177, 177);
+transition: 500ms;
+}
+
+    .OP a.active {
+        background-color: #04AA6D;
+        color: white;
+      }
+.textt{
+    color: aliceblue;
+    padding-right: 50vw;
+    font-family: 'Concert One', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-size: 25px;
+margin-top: 15px;
+}
+
+
