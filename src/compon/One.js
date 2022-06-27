@@ -7,7 +7,9 @@ function One(){
     return(
         <div className="kk" >
         <img className="kk1" src={one1} alt="1d1" />
+        <p className="kk2p">this website is only for desktop user. Mobile suppot comming soon. Thank you for your patience </p>
         <div className="kk2">
+       
         <h1 className="new">Bonjour</h1>
         <h2 className="old">Hi !, I am Web Developer</h2> </div>
        

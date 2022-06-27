@@ -48,3 +48,12 @@ margin-left: 25px;
   font-size: 55px;
   transition: 600ms;
 }
+
+.kk2p{
+  color: #000;
+  size: 30px;
+  background-color: aliceblue;
+  position: absolute;
+  top: 0;
+  
+}
