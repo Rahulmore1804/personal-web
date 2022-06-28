@@ -1,5 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
 .q3{
     display: block;
     width: 100vw;
 max-width: 100%;
+font-family: 'Cormorant Garamond', serif;
+}
+
+.ab{
+    position: absolute;
+    color:black;
+    top :150px; 
+    display: grid;
+  grid-template-columns: 1000px 1000px ;
+  grid-template-rows: 400px 600px ;
+  font-family: 'Cormorant Garamond', serif;
+  left: 20px;
+  
+}
+
+.three{
+    position: relative;
+    font-family: 'Cormorant Garamond', serif;
+}
+.imm{
+    width: 300px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.card{
+    right: 0;
+    font-family: 'Cormorant Garamond', serif;
+}
+.tit{
+    position: absolute;
+    top: 5px;
+    display: block;
+    font-family: 'Cormorant Garamond', serif;
+    justify-content: center;
+    left: 600px;
 }
